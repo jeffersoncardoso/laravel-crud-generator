@@ -20,14 +20,7 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index');
 
-Route::resource('articles', 'ArticleController');
 
-Route::resource('articles', 'ArticleController');
 
-Route::resource('news', 'NewsController');
 
-Route::resource('groups', 'GroupsController');
 
-Route::resource('groups', 'GroupsController');
-
-Route::resource('people', 'PeopleController');

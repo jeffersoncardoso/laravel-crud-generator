@@ -142,9 +142,9 @@ return [
 
         'swagger'       => false,
 
-        'tests'         => true,
+        'tests'         => false,
 
-        'datatables'    => true,
+        'datatables'    => false,
 
         'menu'          => [
 
